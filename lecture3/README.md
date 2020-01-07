@@ -2,13 +2,15 @@
 
 # 主要内容
 
-- nbextensions
+- [nbextensions](https://blog.csdn.net/August1226/article/details/86526858)
 
-> pip install jupyter_contrib_nbextensions
->
-> jupyter contrib nbextension install --user
->
-> jupyter nbextension enable codefolding/main
+```
+pip install jupyter_contrib_nbextensions
+
+jupyter contrib nbextension install --user
+
+jupyter nbextension enable codefolding/main
+```
 
 - pandas merge groupby
 - 二分类评价指标
